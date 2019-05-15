@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 456d78700b940fa46b249b410f7d381d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questionDisplay: {instanceID: 0}
+  - correctCanvas: {instanceID: 0}
+  - falseCanvas: {instanceID: 0}
+  - audioAmbience: {fileID: 8300000, guid: de7f30b57c5042148a3839755d51a508, type: 3}
+  - audioCorrect: {fileID: 8300000, guid: 3e8102299f4d1a24989c58edaed5a5ef, type: 3}
+  - audioWrong: {fileID: 8300000, guid: 6e6dc372587ed1d48a470d779f58adbb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
